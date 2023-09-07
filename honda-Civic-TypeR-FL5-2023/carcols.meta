@@ -6,7 +6,7 @@
       <id value="81823" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
-						  <Item>
+			<Item>
           <modelName>typer23_seats_1</modelName>
           <modShopLabel>TYPER_SEAT1</modShopLabel>
           <linkedModels>
