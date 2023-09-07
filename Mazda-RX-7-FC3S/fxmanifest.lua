@@ -11,7 +11,7 @@ files {
     'carcols.meta',
     'carvariations.meta',
     'dlctext.meta',
-    'handling.meta',
+    'handling_tuned.meta',
     'mfccontentunlocks.meta',
     'vehiclelayouts.meta',
     'vehiclelayoutsf.meta',
@@ -22,7 +22,7 @@ files {
 data_file 'CARCOLS_FILE' 'carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta'
 data_file 'DLCTEXT_FILE' 'dlctext.meta'
-data_file 'HANDLING_FILE' 'handling.meta'
+data_file 'HANDLING_FILE' 'handling_tuned.meta'
 data_file 'MFC_CONTENT_UNLOCK_FILE' 'mfccontentunlocks.meta'
 data_file 'VEHICLE_LAYOUTS_FILE' 'vehiclelayouts.meta'
 data_file 'VEHICLE_LAYOUTS_FILE_F' 'vehiclelayoutsf.meta'
