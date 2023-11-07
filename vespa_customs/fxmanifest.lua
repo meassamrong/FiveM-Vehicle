@@ -8,7 +8,7 @@ version '1.0'
 
 -- Specify which files to include
 files {
-    'carcols.meta',
+    -- 'carcols.meta',
     'carvariations.meta',
     'dlctext.meta',
     'handling.meta',
@@ -16,7 +16,7 @@ files {
 }
 
 -- List the data files to be included
-data_file 'CARCOLS_FILE' 'carcols.meta'
+-- data_file 'CARCOLS_FILE' 'carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta'
 data_file 'DLCTEXT_FILE' 'dlctext.meta'
 data_file 'HANDLING_FILE' 'handling.meta'

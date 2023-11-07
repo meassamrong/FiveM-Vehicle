@@ -10,17 +10,15 @@ version '1.0'
 files {
     'carcols.meta',
     'carvariations.meta',
-    'dlctext.meta',
-    'handling.meta',
-    'vehiclelayouts_typer23.meta',
+    -- 'dlctext.meta',
+    -- 'handling.meta',
     'vehicles.meta',
 }
 
 -- List the data files to be included
 data_file 'CARCOLS_FILE' 'carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta'
-data_file 'DLCTEXT_FILE' 'dlctext.meta'
-data_file 'HANDLING_FILE' 'handling.meta'
-data_file 'VEHICLE_LAYOUTS_FILE' 'vehiclelayouts_typer23.meta'
+-- data_file 'DLCTEXT_FILE' 'dlctext.meta'
+-- data_file 'HANDLING_FILE' 'handling.meta'
 data_file 'VEHICLE_METADATA_FILE' 'vehicles.meta'
 

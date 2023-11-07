@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+  <Vehicles>
+  	<Item>
+	  <lockHash>CU_VEH_BUFFALO5FK</lockHash>
+	  <modelNameHash>buffalo5fk</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>BUFFALO5FK</textLabel>
+	  <vehicleMods />
+	</Item>
+  </Vehicles>	
+</ShopVehicleDataArray>
